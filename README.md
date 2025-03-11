@@ -3,4 +3,6 @@ A python Slack-Bot with customizable commands. Used [this tutorial](https://www.
 
 //When importing into slack, change line 10 of starterbot.py to the Bot's user access token.
 
-//Currently the only command is "Do" which gives a text response.
+//Currently the only commands are Do, Hello, and Hi which give a text response.
+
+//SlackGPT is for chatgpt integration of a slack bot. Still requires 3 API keys, but the bot can be added to slack channels.
